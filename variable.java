@@ -6,6 +6,7 @@ public class variable {
         char c = 'a';
         char d =  'k';
         System.out.println(d);
+        System.out.println(c);
         String name = "Hashmi";
         String last = "Shadab";
     System.out.println(name + last);
